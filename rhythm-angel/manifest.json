@@ -1,0 +1,107 @@
+{
+  "game": "rhythm-angel",
+  "version": 1,
+  "base_url": "https://cdn.flowlunegames.com/rhythm-angel/",
+  "files": [
+    {
+      "path": "audio/sfx/note_hit.wav",
+      "sha256": "9e8dbbd40836eaa3f8305403e869fbee0752e85fcb86b3a536fb03844f40912e",
+      "size": 5144
+    },
+    {
+      "path": "fonts/Quicksand-Bold.ttf",
+      "sha256": "65561a329de20024699162ef86bec0e79a0415c90b30a60ebc301fc00d67f87b",
+      "size": 78592
+    },
+    {
+      "path": "fonts/Quicksand-Light.ttf",
+      "sha256": "19ee3cf99313275a73d9d2966d1ab9278df380730a8257d7750494ab9e79919d",
+      "size": 78656
+    },
+    {
+      "path": "fonts/Quicksand-Medium.ttf",
+      "sha256": "a128d9f99045ed38fdc0d9eafcbb80d8f90295a0826e88cab29468304f7cfe69",
+      "size": 78944
+    },
+    {
+      "path": "fonts/Quicksand-Regular.ttf",
+      "sha256": "7953184f6fcb2191e643b2f5e206b985914b420efa7f46e63a6093e6810c82b1",
+      "size": 78932
+    },
+    {
+      "path": "fonts/Quicksand-SemiBold.ttf",
+      "sha256": "11fc358c00af45748b2fdb8f5e23030a46affa77542d2a371145b140f3e9db43",
+      "size": 78816
+    },
+    {
+      "path": "partners/aria/chibi.png",
+      "sha256": "95f18fe96bbc0621fb09de1e07a9accd8834ffa544c4895c94761dfc8e15a1f5",
+      "size": 15155
+    },
+    {
+      "path": "songs/Aerial Feeling/audio.mp3",
+      "sha256": "8c002da1a57cd895a7b952afbdbb7f389aeb7f95043ae845014c3cf1fedf09c6",
+      "size": 5185931
+    },
+    {
+      "path": "songs/Aerial Feeling/chart.json",
+      "sha256": "cfc08b281460fc463cf6f973e460667fdd4f079717b675cb16de6a02399bac81",
+      "size": 23545
+    },
+    {
+      "path": "songs/Aerial Feeling/jacket.png",
+      "sha256": "1657c6c51ea3c55aff157b95b2da25bfefc5fb14813ed6f9907bc528818ba6d0",
+      "size": 3833438
+    },
+    {
+      "path": "songs/Alter Ego/audio.wav",
+      "sha256": "d17d7c73f076d8d68209d458e444b84b440f20766a5fa1f3b75ad41b5837d808",
+      "size": 56160178
+    },
+    {
+      "path": "songs/Alter Ego/chart.json",
+      "sha256": "be2fb94f7b91951fd294d654fa5fb3feb4c306818a053e7f7359adc243c0bf1e",
+      "size": 71765
+    },
+    {
+      "path": "songs/Alter Ego/jacket.png",
+      "sha256": "4a2527c464240b1e9da7e504693e052bfc0ca6504c9f3c9a44e9e45254b73841",
+      "size": 197344
+    },
+    {
+      "path": "songs/Cartoon Brain/audio.wav",
+      "sha256": "bf6ff6e1855793568b26bb6aefc3f20537e6b3b8c82334fe5fc03b95fabad91c",
+      "size": 60211244
+    },
+    {
+      "path": "songs/Cartoon Brain/chart.json",
+      "sha256": "1217181f55a2ef96c559c34039dbee0d540053b7a146bbf423342706f43cb9da",
+      "size": 28597
+    },
+    {
+      "path": "songs/Cartoon Brain/jacket.png",
+      "sha256": "dfdcb81929de5ab942c063afface19ff5b06286860cc2d9271e17cd9729949f3",
+      "size": 121221
+    },
+    {
+      "path": "songs/Here We Go /audio.wav",
+      "sha256": "ee48f957b1c79031b05eb4caaec43c67e8073cb0c9a801a8225af24ba25338ee",
+      "size": 33411446
+    },
+    {
+      "path": "songs/Here We Go /chart.json",
+      "sha256": "97000294dd7c62c7403c245dd856887ba1634fa599269400f2cde6f330dc969c",
+      "size": 24519
+    },
+    {
+      "path": "songs/Here We Go /jacket.png",
+      "sha256": "234efee74cdf14d8797d55972b24800e0971736592c44af4c4d4fee3cfbf8d54",
+      "size": 6611684
+    },
+    {
+      "path": "sprites/aria_chibi.png",
+      "sha256": "95f18fe96bbc0621fb09de1e07a9accd8834ffa544c4895c94761dfc8e15a1f5",
+      "size": 15155
+    }
+  ]
+}
